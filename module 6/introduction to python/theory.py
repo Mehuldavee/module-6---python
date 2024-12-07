@@ -1,0 +1,33 @@
+
+""" (1) Introduction to Python and its Features (simple, high-level, interpreted language). 
+    (2) History and evolution of Python. 
+    (3) Advantages of using Python over other programming languages. 
+    (4)Installing Python and setting up the development environment (Anaconda, PyCharm, or VS 
+Code). 
+     (5)Writing and executing your first Python program.
+
+-->
+ -> Python is a widely-used, high-level programming language known for being easy to read and versatile. Created in 1991 by Guido van Ros
+ sum and developed further by the Python Software Foundation, Python is used for many purposes: web development, data analysis, machine
+   learning, artificial intelligence, natural language processing, and more. python syntax is read to easy as english language.
+
+-> Python’s structure supports quick and flexible development. As an interpreted and object-oriented language, Python allows dynamic 
+typing, which adds flexibility. It includes many built-in modules and packages, so developers can complete tasks faster without extra
+ setup. The standard library provides tools for a variety of uses and is free across major platforms, which makes Python very accessible.
+
+-> Python is also portable and adaptable. It runs on systems like Windows, macOS, and Linux, and can connect with code written in
+ other languages, like C. With faster development times and the ability to complete tasks in fewer lines of code compared to languages
+   like C or Java, Python has become a top choice for developers.
+
+--->                               1991= python
+                                   2000=python 2
+                                   2008=python 3
+                                   2024=python 3.13.0   ->(3.14.0 is in alpha phase)
+
+
+--> Works Everywhere: Python runs on Windows, macOS, Linux, and even mobile devices.
+Easy to Learn: Its simple, readable code makes it beginner-friendly.
+Saves Time: You can write less code to do more compared to C or Java.
+Powerful Tools: Python has built-in libraries and packages for almost everything, from web development to AI.
+Mixes with Other Code: It works well with languages like C and Java for special needs.
+Strong Support: A big community offers lots of resources and help."""
